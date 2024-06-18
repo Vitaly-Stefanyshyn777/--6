@@ -1122,7 +1122,9 @@
   
   .footer-logo-white {
     fill: var(--color-white);
+    /*
     margin-left: 16px;
+    */
   }
   
   /* ---------- Page Portfolio ---------- */
